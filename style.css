@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    
+}
+button{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: aliceblue;
+    font-size:  30px;
+}
